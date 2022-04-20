@@ -16,7 +16,7 @@
 
 ## Spring
 
-* [스프링 MVC 동작 방싱](https://github.com/Kotlin-Panic-Room/kotlin-spring-laboratory/tree/main/Spring/How-to-work-Spring-MVC)
+* [스프링 MVC 동작 방식](https://github.com/Kotlin-Panic-Room/kotlin-spring-laboratory/tree/main/Spring/How-to-work-Spring-MVC)
 
 ---
 
