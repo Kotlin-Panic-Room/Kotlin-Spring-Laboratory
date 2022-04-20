@@ -3,7 +3,7 @@
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F9cf1r%2FbtraP9TUPct%2FkvIE6igibVGKCws8pbKItK%2Fimg.png)
 
 * DispatcherServlet : HandlerMapping, HandlerAdapter, ViewResolver, View와 같은 구성 요소 중앙에 위치하여 모든 연결을 담당한다.
-*HandlerMapping : 클라이언트의 요청 경로를 이용해서 이를 처리할 컨트롤러 빈 객체를 검색하고 처리할 컨트롤러를 DispatcherServlet에게 전달하는 역할을 수행한다.
+* HandlerMapping : 클라이언트의 요청 경로를 이용해서 이를 처리할 컨트롤러 빈 객체를 검색하고 처리할 컨트롤러를 DispatcherServlet에게 전달하는 역할을 수행한다.
 * Controller : 웹 브라우저가 원하는 처리 요청을 수행한다. 컨트롤러의 종류는 다음과 같다.
   * @Controller 애노테이션을 이용해서 구현한 컨트롤러
   * Controller 인터페이스를 구현한 컨트롤러
