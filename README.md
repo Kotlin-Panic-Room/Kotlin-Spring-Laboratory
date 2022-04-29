@@ -12,6 +12,7 @@
 * [인터페이스에 생성자가 없는 이유](https://github.com/Kotlin-Panic-Room/kotlin-spring-laboratory/tree/main/Kotlin/Why-Java-Interfaces-Cannot-Have-Constructor)
 * [코틀린 관용구](https://github.com/Kotlin-Panic-Room/kotlin-spring-laboratory/tree/main/Kotlin/Ididoms)
 * [JVM 가비지 컬렉션 기초](https://github.com/Kotlin-Panic-Room/kotlin-spring-laboratory/tree/main/Kotlin/Java-Garbage-Collection-Basics)
+* [꼬리 재귀 함수](https://github.com/Kotlin-Panic-Room/kotlin-spring-laboratory/tree/main/Kotlin/tail-recursive)
 
 
 ---
